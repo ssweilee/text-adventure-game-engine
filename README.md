@@ -33,4 +33,4 @@ mvn exec:java@server
 mvn exec:java@client -Dexec.args="playerName"
 ```
 
-![Example](pic/example.png)
+<img src="pic/example.png" alt="Example" width="350"/>
