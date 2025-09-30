@@ -1,0 +1,17 @@
+edu/uob/EntityParser.class
+edu/uob/GameServer.class
+edu/uob/Character.class
+edu/uob/CommandProcessor.class
+edu/uob/CommandProcessor$WholeCommand.class
+edu/uob/Artefact.class
+edu/uob/EntityList.class
+edu/uob/GameAction.class
+edu/uob/CommandProcessor$CommandContext.class
+edu/uob/GameState.class
+edu/uob/GameInitialiser.class
+edu/uob/Player.class
+edu/uob/GameEntity.class
+edu/uob/Location.class
+edu/uob/Furniture.class
+edu/uob/ActionParser.class
+edu/uob/GameClient.class

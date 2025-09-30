@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42ab4d47-f8cf-4cbb-9cf8-0a42dd4a84fd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2uiexch05aohtFoxIN5xtm5AMei" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GameClient.executor": "Run",
+    "Application.GameServer.executor": "Run",
+    "Application.STAGTests.executor": "Run",
+    "Application.Strange.executor": "Run",
+    "Application.TestClient.executor": "Run",
+    "JUnit.ActionsFileTests.executor": "Run",
+    "JUnit.BasicTest.executor": "Run",
+    "JUnit.ComprehensiveSTAGTests.executor": "Run",
+    "JUnit.ComprehensiveSTAGTests1.executor": "Run",
+    "JUnit.DetailedSTAGTests (1).executor": "Run",
+    "JUnit.DetailedSTAGTests.executor": "Debug",
+    "JUnit.DetailedSTAGTests.testAllBasicCommands.executor": "Run",
+    "JUnit.DetailedSTAGTests.testNoPersistentState.executor": "Run",
+    "JUnit.EntitiesFileTests.executor": "Run",
+    "JUnit.ExampleSTAGTests (1).executor": "Run",
+    "JUnit.ExampleSTAGTests.executor": "Run",
+    "JUnit.ExtendedSTAGTests.executor": "Run",
+    "JUnit.ExtendedSTAGTests.testInventory.executor": "Debug",
+    "JUnit.ExtendedSTAGTests.testPartialCommands.executor": "Debug",
+    "JUnit.ExtendedSTAGTests.testWordOrdering.executor": "Run",
+    "JUnit.NewTest.executor": "Run",
+    "JUnit.STAGTests.executor": "Run",
+    "JUnit.TestCommandWithMultipleDecorativeWords.executor": "Run",
+    "JUnit.testCommandWithMultipleDecorativeWords.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/sss/Desktop/2024 fall/Bristol/Computer Science/Java/JAVA2024-exercise/cw-stag",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Subversion",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.EntitiesFileTests">
+    <configuration name="ActionsFileTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cw-stag" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.uob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.uob" />
+      <option name="MAIN_CLASS_NAME" value="edu.uob.ActionsFileTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EntitiesFileTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cw-stag" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.uob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.uob" />
+      <option name="MAIN_CLASS_NAME" value="edu.uob.EntitiesFileTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleSTAGTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cw-stag" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.uob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.uob" />
+      <option name="MAIN_CLASS_NAME" value="edu.uob.ExampleSTAGTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="STAGTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cw-stag" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.uob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.uob" />
+      <option name="MAIN_CLASS_NAME" value="edu.uob.STAGTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCommandWithMultipleDecorativeWords" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cw-stag" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.uob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.uob" />
+      <option name="MAIN_CLASS_NAME" value="edu.uob.TestCommandWithMultipleDecorativeWords" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EntitiesFileTests" />
+        <item itemvalue="JUnit.ActionsFileTests" />
+        <item itemvalue="JUnit.TestCommandWithMultipleDecorativeWords" />
+        <item itemvalue="JUnit.STAGTests" />
+        <item itemvalue="JUnit.ExampleSTAGTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42ab4d47-f8cf-4cbb-9cf8-0a42dd4a84fd" name="Changes" comment="" />
+      <created>1742736069490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742736069490</updated>
+      <workItem from="1742736070765" duration="76000" />
+      <workItem from="1742736159995" duration="61000" />
+      <workItem from="1742736246289" duration="397000" />
+      <workItem from="1742736941359" duration="13916000" />
+      <workItem from="1742779438156" duration="89289000" />
+      <workItem from="1743078938439" duration="12141000" />
+      <workItem from="1743109579993" duration="117328000" />
+      <workItem from="1743516936256" duration="228000" />
+      <workItem from="1743518189457" duration="79000" />
+      <workItem from="1743518275952" duration="77468000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
